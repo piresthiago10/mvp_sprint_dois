@@ -13,3 +13,5 @@ Plataforma destinada a divulgar e disponibilizar listagem, detalhes, relatórios
 ### Links:
 
 Miro: [Lean Inseption com Canvas](https://miro.com/app/board/uXjVJM1Yz_E=/?share_link_id=552364610500)
+
+Apresentação: [vídeo no youtube](https://youtu.be/XWVFo8d9FMw)
